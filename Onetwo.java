@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Marium Baig
+ * @author Khewbs
  */
 
 class node{
